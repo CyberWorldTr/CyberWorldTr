@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWorldTr&layout=compact" />
 
 
-## Bana Ulaşın Veya Benimle İletişime Geçin!
+## Benimle İletişime Geçin!
 [<img  alt="discord" src="https://img.shields.io/badge/DISCORD-CyberWorldTr-red?style=for-the-badge&logo=discord"/>](https://discord.gg/CQ44MG34Ut)
 [<img  alt="tiktok" src="https://img.shields.io/badge/T%C4%B0KTOK-CyberWorldTr-red?style=for-the-badge&logo=tiktok" />](https://www.tiktok.com/@cyberworldtr)
 [<img  alt="twitter" src="https://img.shields.io/badge/TWITTER-CyberWorldTr-red?style=for-the-badge&logo=twitter" />](https://twitter.com/cyberworldtur)
