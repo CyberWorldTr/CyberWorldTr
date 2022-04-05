@@ -2,6 +2,7 @@
 
 ## Hakkımda
 Ön Yüz Geliştirme (Frond-End) Tasarımcı Olarak Kariyerime Devam Etmekte Aynı Zamanda Tiktok ve Farklı Mecralar İçin İçerik Üretmekteyim.
+Aynı Zamanda Siber Güvenlik Çalışmalarımı Sürdürmekteyim.
 
 ## Görüntülenme
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberWorldTr&label=Goruntuleme&color=red&style=for-the-badge" alt="CyberWolrd" /> </p>
