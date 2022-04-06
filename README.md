@@ -4,9 +4,6 @@
 Ön Yüz Geliştirme (Frond-End) Tasarımcı Olarak Kariyerime Devam Etmekte Aynı Zamanda Tiktok ve Farklı Mecralar İçin İçerik Üretmekteyim.<br>
 Aynı Zamanda Siber Güvenlik Çalışmalarımı Sürdürmekteyim.
 
-## Görüntülenme
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberWorldTr&label=Goruntuleme&color=red&style=for-the-badge" alt="CyberWolrd" /> </p>
-
 ## GitHub Profil Ödülleri
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberWorldTr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -15,6 +12,8 @@ Aynı Zamanda Siber Güvenlik Çalışmalarımı Sürdürmekteyim.
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWorldTr&layout=compact" />
 
+## Görüntülenme
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberWorldTr&label=Goruntuleme&color=red&style=for-the-badge" alt="CyberWolrd" /> </p>
 
 ## Benimle İletişime Geçin!
 [<img  alt="discord" src="https://img.shields.io/badge/DISCORD-CyberWorldTr-red?style=for-the-badge&logo=discord"/>](https://discord.gg/CQ44MG34Ut)
