@@ -7,7 +7,7 @@ Aynı Zamanda Siber Güvenlik Çalışmalarımı Sürdürmekteyim.
 ## Görüntülenme
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberWorldTr&label=Goruntuleme&color=red&style=for-the-badge" alt="CyberWolrd" /> </p>
 
-<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=CyberWorldTr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=CyberWorldTr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 ## &#x1f4c8; Github İstatistiklerim
  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=CyberWorldTr&count_private=true&include_all_commits=true" />
