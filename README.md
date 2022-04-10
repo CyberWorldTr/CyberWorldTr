@@ -1,4 +1,4 @@
-# 👋 Merhaba! Ben Cyber World TR Kısaca Cyber!
+# <img src="bg-github.png"/>
 
 ## Hakkımda
 Ön Yüz Geliştirme (Frond-End) Tasarımcı Olarak Kariyerime Devam Etmekte Aynı Zamanda Tiktok ve Farklı Mecralar İçin İçerik Üretmekteyim.<br>
