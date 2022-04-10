@@ -1,4 +1,4 @@
-# <img src="bg-github.png"/>
+# <img src="bg-github.png" height="170px" />
 
 ## Hakkımda
 Ön Yüz Geliştirme (Frond-End) Tasarımcı Olarak Kariyerime Devam Etmekte Aynı Zamanda Tiktok ve Farklı Mecralar İçin İçerik Üretmekteyim.<br>
