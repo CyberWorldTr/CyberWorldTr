@@ -2,7 +2,7 @@
 <p align="center"><img src="bg-github.png" width="80%" height="116px" /></p>
 
 ## Hakkımda
-Ön Yüz Geliştirme (Frond-End) Tasarımcı Olarak Kariyerime Devam Etmekte Aynı Zamanda Tiktok ve Farklı Mecralar İçin İçerik Üretmekteyim.<br>
+Ön Yüz Geliştirme (Front-End) Tasarımcı Olarak Kariyerime Devam Etmekte Aynı Zamanda Tiktok ve Farklı Mecralar İçin İçerik Üretmekteyim.<br>
 Aynı Zamanda Siber Güvenlik Çalışmalarımı Sürdürmekteyim.
 
 ## Kullandığım Yazılım Dilleri
