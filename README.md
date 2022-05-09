@@ -37,6 +37,7 @@ Aynı Zamanda Siber Güvenlik Çalışmalarımı Sürdürmekteyim.
 [<img  alt="discord" src="https://img.shields.io/badge/DISCORD-CyberWorldTr-red?style=for-the-badge&logo=discord"/>](https://discord.gg/CQ44MG34Ut)
 [<img  alt="tiktok" src="https://img.shields.io/badge/T%C4%B0KTOK-CyberWorldTr-red?style=for-the-badge&logo=tiktok" />](https://www.tiktok.com/@cyberworldtr)
 [<img  alt="twitter" src="https://img.shields.io/badge/TWITTER-CyberWorldTr-red?style=for-the-badge&logo=twitter" />](https://twitter.com/cyberworldtur)
+[<img  alt="instagram" src="https://img.shields.io/badge/INSTAGRAM-CyberWorldTr-red?style=for-the-badge&logo=instagram" />](https://www.instagram.com/cyberworldtr/)
 <br>
 <br>
 
