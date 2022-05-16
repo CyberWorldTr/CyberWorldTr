@@ -1,4 +1,4 @@
-# 👋 Merhaba! Ben Cyber World TR Kısaca Cyber!
+# [Merhaba! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Ben Cyber World TR Kısaca Cyber!][website]
 <p align="center"><img src="bg-github.png" width="80%" height="116px" /></p>
 
 ## Hakkımda
