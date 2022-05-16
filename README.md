@@ -28,7 +28,7 @@ Aynı Zamanda Siber Güvenlik Çalışmalarımı Sürdürmekteyim.
 ## &#x1f4c8; Github İstatistiklerim
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=CyberWorldTr&count_private=true&include_all_commits=true&theme=dracula" />
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWorldTr&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWorldTr&layout=compact&theme=dracula" />
 
 ## Görüntülenme
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberWorldTr&label=Goruntuleme&color=red&style=for-the-badge" alt="CyberWolrd" /> </p>
