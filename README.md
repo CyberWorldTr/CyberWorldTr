@@ -26,7 +26,7 @@ Aynı Zamanda Siber Güvenlik Çalışmalarımı Sürdürmekteyim.
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberWorldTr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## &#x1f4c8; Github İstatistiklerim
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=CyberWorldTr&count_private=true&include_all_commits=true" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=CyberWorldTr&count_private=true&include_all_commits=true&theme=dracula" />
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWorldTr&layout=compact" />
 
